@@ -3,9 +3,6 @@
 
 A browser-based calculator built to practice responsive web design and JavaScript logic. The layout automatically scales to fit both mobile screens and desktop monitors.
 
-##  Live Demo
-[Launch the Calculator](https://graceibiok2.github.io/Responsive-Web-Calculator/index.html)
-
 ## How It Works
 
 ### Design & Layout (CSS)
